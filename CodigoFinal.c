@@ -176,5 +176,5 @@ int main() {
     pthread_join(t3, NULL);
 
     pthread_mutex_destroy(&mutex);
-    return 0;
+     return 0;
 }
